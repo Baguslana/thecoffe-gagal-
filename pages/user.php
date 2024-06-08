@@ -1,7 +1,7 @@
 <div class="konten col-lg rounded">
     <div class="card">
         <div class="card-header fw-bold">
-            Page User
+            Halaman User
         </div>
         <div class="card-body">
             <h5 class="card-title">Special title treatment</h5>
